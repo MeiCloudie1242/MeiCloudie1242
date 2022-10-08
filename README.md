@@ -31,7 +31,7 @@
 ## Top Repositories
 
 <a href="https://github.com/meicloudie1242/CaroOnline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meicloudie1242&repo=caroonline&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimaeus&repo=caroonline&theme=dracula" />
 </a>
 
 ## Badges
