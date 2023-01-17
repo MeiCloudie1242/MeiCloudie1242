@@ -5,7 +5,7 @@
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
 
-- ❤️ I love writing C#
+- ❤️ I love writing React
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie1242/meicloudie1242/issues)
 <br>
